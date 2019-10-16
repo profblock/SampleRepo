@@ -1,5 +1,3 @@
 hello how are you 
 Change in BugFix
 Line into master
-Another Line
-Third Line
