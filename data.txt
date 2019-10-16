@@ -1,4 +1,5 @@
 hello how are you 
 Change in BugFix
 Line into master
-Another line
+Another Line
+Third Line
